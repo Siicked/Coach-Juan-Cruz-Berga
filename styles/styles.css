@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background-image: linear-gradient(red, orange);
+    display: flex;
+    justify-content: center;
+    text-align: center
+}
+img {
+    height: 500px;
+}
+
+h1:hover {
+    color: aliceblue;
+    text-shadow: 1px 1px 1px black;
+    font-size: 2.5em;
+    text-transform: uppercase;
+}
+button {
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 400px;
+    height: 50px;
+    width: 70px;
+}
+button:hover {
+    background-color: black;
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    height: 90px;
+}
