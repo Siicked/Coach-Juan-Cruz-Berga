@@ -13,7 +13,6 @@ main {
 img {
     height: 500px;
 }
-g
 h1:hover {
     color: aliceblue;
     text-shadow: 1px 1px 1px black;
@@ -23,7 +22,7 @@ h1:hover {
 button {
     display: flex;
     align-items: center;
-    position: relative;
+    position: relative;gi
     left: 400px;
     height: 50px;
     width: 70px;
@@ -33,8 +32,4 @@ button:hover {
     color: blueviolet;
     font-family: 'Times New Roman', Times, serif;
     height: 90px;
-}
-footer {
-    background-image: linear-gradient(red, orange);
-    display: inline;
 }
