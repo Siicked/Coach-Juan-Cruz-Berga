@@ -34,3 +34,7 @@ button:hover {
     font-family: 'Times New Roman', Times, serif;
     height: 90px;
 }
+footer {
+    background-image: linear-gradient(red, orange);
+    display: inline;
+}
