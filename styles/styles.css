@@ -13,6 +13,7 @@ main {
 img {
     height: 500px;
 }
+
 h1:hover {
     color: aliceblue;
     text-shadow: 1px 1px 1px black;
